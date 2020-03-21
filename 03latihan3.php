@@ -17,3 +17,4 @@ switch ($destination) {
         echo "Bring a swimsuit";
         break;
 }
+//output : "Bring lots of Money"
